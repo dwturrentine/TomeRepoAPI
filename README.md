@@ -1,4 +1,4 @@
-# TomeRepo
+# TomeRepo API
 A RESTful API written in Java. This API allows users to login and retrieve bibliographic information stored in a SQL database.
 
 # Knowledge, Skills, & Abilities
